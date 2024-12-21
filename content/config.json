@@ -18,6 +18,10 @@
     {
       "title": "Contact me",
       "url": "/pages/contacts"
+    },
+    {
+      "title": "Merch",
+      "url": "/pages/merch"
     }
   ],
   "author": {
